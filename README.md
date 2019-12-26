@@ -8,6 +8,9 @@ your objective is to roll the ball and collect the cubes with some obstacles in 
 ## Game logic:
 eem (._.)...  1>0
 
+## Screenshot:
+<img src="Screenshot\bol.jpg" />
+
 ## Tools used:
 * Visual studio Code (Text Editor)
 * C# (logic)
