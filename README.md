@@ -9,7 +9,7 @@ your objective is to roll the ball and collect the cubes with some obstacles in 
 eem (._.)...  1>0
 
 ## Screenshot:
-<img src="screenshot\roll.png" /> 
+<img src="Screenshot\roll.png" /> 
 
 ## Tools used:
 * Visual studio Code (Text Editor)
