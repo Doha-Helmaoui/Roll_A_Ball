@@ -6,10 +6,10 @@
 
 ## Table of contents 
 
+-  [GameLogic](#Game-logic)
 - [Screenshots](#Screenshots)
 - [ToolsUsed](#Tools-used)
 - [Contribution](Contribution)
-- [GameLogic](#Game-logic)
 
 
 it's a MiniGame !
