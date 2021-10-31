@@ -9,7 +9,7 @@
 - [GameLogic](#Game-logic)
 - [Screenshot](#Screenshot)
 - [ToolsUsed](#Tools-used)
-- [Contribution](Contribution)
+- [Contribution](#Contribution)
 
 
 it's a MiniGame !
@@ -29,3 +29,6 @@ eem (._.)...  1>0
 
 ## Contribution:
 Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please don't contact me, use free license art assets please.
+
+
+[Back to Top   :arrow_up:](#table-of-contents)
