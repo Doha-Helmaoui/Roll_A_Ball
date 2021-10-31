@@ -6,11 +6,11 @@
 
 ## Table of contents 
 
--[Game logic](#Game logic)
+-
 - [Screenshots](#Screenshots)
 - [Tools](#Tools-used)
 - [Contribution](Contribution)
-- 
+- [Game logic](#Game logic)
 it's a MiniGame !
 your objective is to roll the ball and collect the cubes with some obstacles in your way.
 
