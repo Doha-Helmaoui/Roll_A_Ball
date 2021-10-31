@@ -7,7 +7,7 @@
 ## Table of contents 
 
 -  [GameLogic](#Game-logic)
-- [Screenshots](#Screenshots)
+- [Screenshots](#Screenshot)
 - [ToolsUsed](#Tools-used)
 - [Contribution](Contribution)
 
