@@ -7,9 +7,9 @@
 ## Table of contents 
 
 - [Screenshots](#Screenshots)
-- [Tools](#Tools-used)
+- [ToolsUsed](#Tools-used)
 - [Contribution](Contribution)
-- [Game logic](#Game logic)
+- [GameLogic](#Game-logic)
 
 
 it's a MiniGame !
